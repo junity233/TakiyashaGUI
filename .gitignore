@@ -1,6 +1,10 @@
 .vscode
 .qt_for_python
 */__pycache__
+__pycache__
+build
+dist
 *.mflac
 *.flac
 ui_mainwindow.py
+*.spec
