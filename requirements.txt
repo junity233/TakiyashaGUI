@@ -1,0 +1,2 @@
+takiyasha==0.4.2
+PySide6==

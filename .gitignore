@@ -1,0 +1,6 @@
+.vscode
+.qt_for_python
+*/__pycache__
+*.mflac
+*.flac
+ui_mainwindow.py
