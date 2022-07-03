@@ -8,6 +8,7 @@ import core
 from tag.complete import CompleteException
 
 import os,time
+from sys import exit
 
 VERSION = "1.0"
 
