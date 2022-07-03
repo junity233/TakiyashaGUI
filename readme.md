@@ -4,7 +4,7 @@ TakiyashaGUI是对音乐解锁工具[takiyasha](https://github.com/nukemiko/taki
 
 # 屏幕截图
 
-![image-20220703103534634](screenshot\image-20220703103534634.png)
+![image-20220703103534634](screenshot/image-20220703103534634.png)
 
 ## 使用方法
 
