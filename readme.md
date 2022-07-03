@@ -4,18 +4,16 @@ TakiyashaGUI是对音乐解锁工具[takiyasha](https://github.com/nukemiko/taki
 
 ## 使用方法
 
-### 1.安装PySide6
-
-由于图形界面是用Qt写的，故需要先安装PySide6.
+### 1.安装依赖
 
 ```bash
-pip install pyside6
+pip install -r requirements.txt
 ```
 
 或者
 
 ```bash
-python3 -m pip install pyside6
+python3 -m pip install -r requirements.txt
 ```
 
 ### 2.编译ui文件
