@@ -1,2 +1,4 @@
-takiyasha==0.4.2
-PySide6==
+pyaes >= 1.6.1
+mutagen >= 1.45.1
+MusicTagFindUtils >= 0.1.2
+requests >= 2.26.0
